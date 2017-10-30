@@ -1,1 +1,1 @@
-##Django blog application for Hello Django Tutorial
+#this is django blog for Hello Django Application
