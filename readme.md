@@ -1,1 +1,0 @@
-#this is django blog for Hello Django Application
